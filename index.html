@@ -4,8 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>banana speak</title>
+    <title>banana talk</title>
     <style>
+       
+        body{
+            font-family: 'Roboto', sans-serif;
+            font-weight: lighter;
+            
+        }
         textarea{
             width: 80%;
             height: 10vh;
@@ -20,11 +26,23 @@
             margin: 1rem;
             padding: 1rem;
         }
+        .heading{
+            background-color: #E8BD0D;
+            padding:0.5rem 0.5rem;
+            text-align: center;
+
+        }
+
     </style>
    
 </head>
 <body>
-    <h1>Talk banana</h1>
+    <section class="heading">
+        <div>
+            <h1>Banana Talk</h1>
+        </div>
+    </section>
+
     <textarea id="txt-input" placeholder="put your sentence in english,we will convert into banana"></textarea>
     <button id="btn-translate">Translate</button>
     <div style="font-size:larger;">Output will come here 👇 </div>
