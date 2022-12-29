@@ -11,7 +11,7 @@
 - Create the app with your own design.
 
 ## Sample Screenshots :
-> Note:This screenshots are subjected to change,as I would updated my portfolio website in future.<br>
+> Note:This screenshots are subjected to change,as I might modify this  website in future.<br>
 
 ![image](https://user-images.githubusercontent.com/73344382/210008262-11f3ccd4-c005-48b4-b2ab-9aa7abc9b7e3.png)
 
